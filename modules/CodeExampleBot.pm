@@ -7,7 +7,7 @@ package CodeExampleBot; {
 	use POSIX qw(strftime);
 	use APIRequest;
 	use URI::Encode;
-	use Data::Dumper;
+	
 	sub new {
 		my($class) = @_;
 	

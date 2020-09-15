@@ -7,7 +7,7 @@ To demonstrate ability to work with various APIs and implement cross-API interac
 # Requirements
 1. Perl 5.26
 2. LWP::UserAgent
-3. Telegram bot created via botFather(see here: https://core.telegram.org/api
+3. Telegram bot created via botFather(see here: https://core.telegram.org/api)
 # Installation instructions (approximate, not the last ones to follow):
 1. git clone this project
 2. [optional] sudo apt-get install perl
